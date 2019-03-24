@@ -1,4 +1,4 @@
-#title {
+#title{
   background-color: #ff4c68;
   color: #fff;
   }
@@ -8,7 +8,7 @@ body {
 h1 {
 font-family: "Montserrat-Black", sans-serif;
 font-weight: bold;
-font-size: 3rem;
+font-size: 3.5rem;
 line-height: 1.5;
 }
 .container-fluid {
@@ -46,4 +46,14 @@ line-height: 1.5;
   transform:rotate(25deg);
   margin: 5em auto;
   overflow: visible;
+}
+
+/* second container */
+
+h3{
+  font-family: "montserrat-bold";
+  font-size: 1.5rem;
+}
+p{
+  color: #8f8f8f;
 }
