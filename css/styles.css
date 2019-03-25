@@ -44,25 +44,30 @@ line-height: 1.5;
 .iphone-pic {
   width: 60%;
   transform:rotate(25deg);
-  margin: 5em auto;
-  overflow: visible;
+
 }
 
-/* second container */
+/* feature section */
 
 h3{
-  font-family: "montserrat-bold";
+  font-family: "Montserrat-Bold";
   font-size: 1.5rem;
-  align-items: center;
-
 }
 p{
   color: #8f8f8f;
-  align-items: center;
 }
-.feature-image{
+#features {
+  padding: 7% 15%;
+}
+.icon{
   color: #ef8172;
-  align-items: center;
-
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+.feature-box{
+  text-align: center;
+  padding: 5%;
 
 }
