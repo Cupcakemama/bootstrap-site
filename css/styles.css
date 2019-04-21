@@ -106,5 +106,9 @@ color: #fff;
 
 /* pricing */
 #pricing{
-  padding 100px;
+  padding: 100px;
+  text-align:center;
+}
+.pricing-column{
+  padding: 3% 2%;
 }
