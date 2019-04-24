@@ -141,6 +141,13 @@ padding: 7% 5%;
   color: #fff;
   line-height: 1.5;
 }
-#footer {
-padding: 5%;
+.closure {
+padding: 2%;
+color: #8f8f8f;
+background-color: #ffff;
+text-align: center;
+}
+.copyright{
+text-align: center;
+
 }
