@@ -133,21 +133,23 @@ color: #fff;
 #cta {
 text-align: center;
 background-color: #ff4c68;
-padding: 7% 5%;
+padding: 7% 15%;
 }
 .ending {
   font-family: "Montserrat-Black", sans-serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   color: #fff;
   line-height: 1.5;
+}
+#footer {
+  text-align: center;
+  padding: 7% 15%;
 }
 .closure {
 padding: 2%;
 color: #8f8f8f;
-background-color: #ffff;
-text-align: center;
+background-color: #fff;
 }
-.copyright{
-text-align: center;
-
+.social-icon{
+  margin: 20px 10px;
 }
